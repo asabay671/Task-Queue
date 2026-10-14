@@ -1,0 +1,14 @@
+*.exe
+/bin/
+/taskqueue
+
+*.test
+*.out
+coverage.html
+
+.env
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
